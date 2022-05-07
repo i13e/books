@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Odyssey",
+    "authors": [
+      "Homer"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2017-11-07",
+    "description": "A New York Times Notable Book of 2018 \"Wilson’s language is fresh, unpretentious and lean…It is rare to find a translation that is at once so effortlessly easy to read and so rigorously considered.\" —Madeline Miller, author of Circe Composed at the rosy-fingered dawn of world literature almost three millennia ago, The Odyssey is a poem about violence and the aftermath of war; about wealth, poverty and power; about marriage and family; about travelers, hospitality, and the yearning for home. This fresh, authoritative translation captures the beauty of this ancient poem as well as the drama of its narrative. Its characters are unforgettable, none more so than the “complicated” hero himself, a man of many disguises, many tricks, and many moods, who emerges in this version as a more fully rounded human being than ever before. Written in iambic pentameter verse and a vivid, contemporary idiom, Emily Wilson’s Odyssey sings with a voice that echoes Homer’s music; matching the number of lines in the Greek original, the poem sails along at Homer’s swift, smooth pace. A fascinating, informative introduction explores the Bronze Age milieu that produced the epic, the poem’s major themes, the controversies about its origins, and the unparalleled scope of its impact and influence. Maps drawn especially for this volume, a pronunciation glossary, and extensive notes and summaries of each book make this is an Odyssey that will be treasured by a new generation of readers.",
+    "image": "http://books.google.com/books/content?id=PpJYDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 2,
+    "categories": [
+      "Poetry"
+    ],
+    "pageCount": 592,
+    "isbn10": "0393634566",
+    "isbn13": "9780393634563",
+    "googleBooks": {
+      "id": "PpJYDgAAQBAJ",
+      "preview": "http://books.google.com/books?id=PpJYDgAAQBAJ&pg=PT675&dq=intitle:The+Odyssey+by+Homer+and+Emily+Wilson&hl=&cd=10&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=PpJYDgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=PpJYDgAAQBAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T18:18:14.000Z"
+  },
+  {
     "title": "The Hobbit, Or, There and Back Again",
     "authors": [
       "John Ronald Reuel Tolkien",
