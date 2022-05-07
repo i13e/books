@@ -1,5 +1,35 @@
 [
   {
+    "title": "The Hobbit, Or, There and Back Again",
+    "authors": [
+      "John Ronald Reuel Tolkien",
+      "Alan Lee"
+    ],
+    "publisher": "HarperCollins Publishers",
+    "publishedDate": "1997",
+    "description": "The adventures of the well-to-do hobbit, Bilbo Baggins who lived happily in his comfortable house until a wandering wizard granted his wish.",
+    "image": "http://books.google.com/books/content?id=0k0IQAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 3165,
+    "categories": [
+      "Baggins, Bilbo (Fictitious character)"
+    ],
+    "pageCount": 288,
+    "isbn10": "026110330X",
+    "isbn13": "9780261103306",
+    "googleBooks": {
+      "id": "0k0IQAAACAAJ",
+      "preview": "http://books.google.com/books?id=0k0IQAAACAAJ&dq=intitle:The+Hobbit+by+J.R.R.+Tolkien&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=0k0IQAAACAAJ&dq=intitle:The+Hobbit+by+J.R.R.+Tolkien&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Hobbit_Or_There_and_Back_Again.html?hl=&id=0k0IQAAACAAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T18:15:48.000Z"
+  },
+  {
     "title": "Meditations",
     "authors": [
       "Marcus Aurelius"
